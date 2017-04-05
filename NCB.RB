@@ -1,4 +1,4 @@
-#NINJA COWBOY BEAR Rock Paper Scissors
+#NINJA COWBOY BEAR Rock Paper Scissors REBL
 puts "Let's Play NINJA COWBOY BEAR--Rock Paper Scissors Reimagined."
 puts "Yes/No"
 
